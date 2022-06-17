@@ -3,7 +3,7 @@
 
 > Tecnologias utilizadas ✨
 - Create React-app
-- React
+- Typescript
 - SCSS
 - CSS Modules
 
